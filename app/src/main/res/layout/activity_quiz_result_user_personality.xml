@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_quiz_result_user_personality"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="dev.linhnv.fbee.QuizResultUserPersonalityActivity">
+
+    <include layout="@layout/tool_bar"
+        android:id="@+id/toolbar_quizget"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar_quizget"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txt_title_result"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textSize="21sp"
+            android:text="a"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorOrangeLight"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin"/>
+        <TextView
+            android:id="@+id/txt_content_result"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="@dimen/margin"
+            android:layout_margin="@dimen/margin"
+            android:text="aaa"
+            android:textSize="18sp"/>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">F-Bee</string>
+    <string name="test1">Trắc nghiệm</string>
+    <string name="gift">Quà tặng</string>
+    <string name="test">Phần thi trắc nghiệm</string>
+    <string name="test_and_gift"></string>
+    <string name="get_gift">Nhận quà tặng</string>
+    <string name="dialog_get_gift">Bạn đã nhận được quà tặng chưa?</string>
+    <string name="test_occupattion">Nghề nghiệp</string>
+    <string name="test_personality">Tính cách</string>
+    <string name="title_spinner">Lựa chọn nghề nghiệp</string>
+    <string name="dialog_exit">Bạn có muốn thoát khỏi chương trình không?</string>
+    <string name="titleDialog">Xác nhận!</string>
+    <string name="setPositiveButton">Không</string>
+    <string name="setNegativeButton">Có</string>
+    <string name="result">Kết quả</string>
+    <string name="dialog_exit_gift">Bạn có muốn thoát khỏi quay quà không?</string>
+
+    <!--Main activity -->
+    <string name="learning">Học Tập</string>
+    <string name="relax">Giải Trí</string>
+    <string name="forum">Hỏi đáp</string>
+    <!--Get -->
+    <string name="book">Book</string>
+    <string name="bag">Bag</string>
+    <string name="clock">Clock</string>
+    <string name="bell">Bell</string>
+    <string name="getGiftDone">Bạn đã nhận quà tặng</string>
+    <string name="idConfirm">Mã xác nhận</string>
+    <string name="confirm">Xác nhận tặng quà</string>
+    <string name="finishGift">Bạn đã nhận quà tặng</string>
+    <!-- updateinfo acticity -->
+    <string name="wanna">Bạn quan tâm đến ngành học nào tại Poly</string>
+    <string name="other">Khác</string>
+    <string-array name="planets_array">
+        <item>Nghề nghiệp</item>
+        <item>Tính cách</item>
+    </string-array>
+
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test_occupation">TestOccupationActivity</string>
+    <string name="score">Tính điểm</string>
+    <string name="answer_key">Đáp án được chọn</string>
+    <string name="title_activity_test_job">TestJobActivity</string>
+    <string name="title_activity_test_personality">TestPersonalityActivity</string>
+
+    <string name="text_inside_circle_button_text_normal">Menu1</string>
+
+    <string name="tenDangNhap">Tên đăng nhập</string>
+    <string name="matKhau">Mật khẩu</string>
+    <string name="nhapLaiMatKhau">Nhập lại mật khẩu</string>
+    <string name="dangNhap">Đăng nhập</string>
+    <string name="dangKy">Đăng ký</string>
+    <string name="taoTaiKhoan">Tạo tài khoản</string>
+    <string name="quenMatKhau">Quên mật khẩu</string>
+    <string name="dangNhapBang">Hoặc</string>
+    <string name="ghiNho">Ghi nhớ</string>
+    <string name="hoVaTen">Họ và tên</string>
+    <string name="dienThoai">Số điện thoại</string>
+    <string name="email">Email</string>
+    <string name="hoanTat">Hoàn tất</string>
+
+    <!--notice error -->
+    <string name="err_per">Bạn chưa ghi điểm cho câu này</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">760172780796425</string>
+    <string name="fb_login_protocol_scheme">760172780796425</string>
+    <string name="server_client_id">251610737794-soo20q12smni6js0jsbb17lt30ab4u26.apps.googleusercontent.com</string>
+
+    <!--nhom tinh cach-->
+    <string name="titleA">Bạn thuộc nhóm người Realistic</string>
+    <string name="titleB">Bạn thuộc nhóm người Investigative</string>
+    <string name="titleC">Bạn thuộc nhóm người Artistic</string>
+    <string name="titleD">Bạn thuộc nhóm người Social</string>
+    <string name="titleE">Bạn thuộc nhóm người Enterprising</string>
+    <string name="titleF">Bạn thuộc nhóm người Conventional</string>
+    <string name="bangA">R (Realistic): Người thuộc nhóm sở thích nghề nghiệp này thường có khả năng về kỹ thuật, công nghệ, hệ thống; ưa thích làm việc với đồ vật, máy móc, động thực vật; thích làm các công việc ngoài trời. Ngành nghề phù hợp với nhóm này bao gồm: Các nghề về kiến trúc, an toàn lao động, nghề mộc, xây dựng, thủy sản, kỹ thuật, máy tàu thủy, lái xe, huấn luyện viên, nông –lâm nghiệp (quản lý trang trại, nhân giống cá, lâm nghiệp…), cơ khí (chế tạo máy, bảo trì và sữa chữa thiết bị, luyện kim, cơ khí ứng dụng, tự động...), điện - điện tử, địa lý - địa chất (đo đạc, vẽ bản đồ địa chính), dầu khí, hải dương học, quản lý công nghiệp...</string>
+    <string name="bangB">I ( Investigative): Có khả năng về quan sát, khám phá, phân tích đánh giá và giải quyết các vấn đề. Ngành nghề phù hợp với nhóm này bao gồm: Các ngành thuộc lĩnh vực khoa học tự nhiên (toán, lý, hóa, sinh, địa lý, địa chất, thống kê…); khoa học xã hội (nhân học, tâm lý, địa lý…); y - dược (bác sĩ gây mê, hồi sức, bác sĩ phẫu thuật, nha sĩ…); khoa học công nghệ (công nghệ thông tin, môi trường, điện, vật lý kỹ thuật, xây dựng…); nông lâm (nông học, thú y…).</string>
+    <string name="bangC">A (Artistic): Có khả năng về nghệ thuật, khả năng về trực giác, khả năng tưởng tượng cao, thích làm việc trong các môi trường mang tính ngẫu hứng, không khuôn mẫu. Ngành nghề phù hợp với nhóm này bao gồm: Các ngành về văn chương; báo chí (bình luận viên, dẫn chương trình…); điện ảnh, sân khấu, mỹ thuật, ca nhạc, múa, kiến trúc, thời trang, hội họa, giáo viên dạy sử/Anh văn, bảo tàng, bảo tồn...</string>
+    <string name="bangD">S (Social): Có khả năng về ngôn ngữ, giảng giải, thích làm những việc như giảng dạy, cung cấp thông tin, sự chăm sóc, giúp đỡ, hoặc huấn luyện cho người khác. Ngành nghề phù hợp với nhóm này bao gồm: sư phạm; giảng viên; huấn luyện viên điền kinh; tư vấn - hướng nghiệp; công tác xã hội, sức khỏe cộng đồng, thuyền trưởng, thầy tu, thư viện, bác sĩ chuyên khoa, thẩm định giá, nghiên cứu quy hoạch đô thị, kinh tế gia đình, tuyển dụng nhân sự, cảnh sát, xã hội học, bà đỡ, chuyên gia về X-quang, chuyên gia dinh dưỡng…</string>
+    <string name="bangE">E (Enterprising): Có khả năng về kinh doanh, mạnh bạo, dám nghĩ dám làm, có thể gây ảnh hưởng, thuyết phục người khác, có khả năng quản lý. Ngành nghề phù hợp với nhóm này bao gồm: Các ngành về quản trị kinh doanh (quản lý khách sạn, quản trị nhân sự…), thương mại, marketing, kế toán – tài chính, luật sư, dịch vụ khách hàng, tiếp viên hàng không, thông dịch viên, pha chế rượu, kỹ sư công nghiệp (ngành kỹ thuật hệ thống công nghiệp), bác sĩ cấp cứu, quy hoạch đô thị, bếp trưởng (nấu ăn), báo chí (phóng viên, biên tập viên…)…</string>
+    <string name="bangF">C (Conventional): Có khả năng về số học, thích thực hiện những công việc chi tiết, thích làm việc với những số liệu, theo chỉ dẫn của người khác hoặc các công việc văn phòng. Ngành nghề phù hợp với nhóm này bao gồm: Các ngành nghề về hành chính, thống kê, thanh tra ngành, người giữ trẻ, điện thoại viên.....
+</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251610737794",
+    "project_id": "f-bee-c569e"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251610737794:android:e1c121c11cb3d5ec",
+        "android_client_info": {
+          "package_name": "dev.linhnv.fbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251610737794-soo20q12smni6js0jsbb17lt30ab4u26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.linhnv.fbee",
+            "certificate_hash": "600ABFC33F161BC570657F9D055BD9B04ECCBA73"
+          }
+        },
+        {
+          "client_id": "251610737794-v6f8jkslmifmc6dhlvqgu36sh6935rs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iRjh3CKa1EzwlMA55tVs0zbET_3Q5UQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

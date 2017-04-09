@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_test_and_gift"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="dev.linhnv.fbee.TestAndGiftActivity"
+    android:background="@color/colorWhite">
+    <include layout="@layout/tool_bar"/>
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabGift"
+        android:layout_below="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.design.widget.TabLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpagerGift"
+        android:layout_below="@+id/tabGift"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v4.view.ViewPager>
+</RelativeLayout>
+

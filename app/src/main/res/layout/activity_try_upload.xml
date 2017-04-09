@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_try_upload"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    tools:context="dev.linhnv.fbee.TryUploadActivity">
+    <EditText
+        android:id="@+id/et_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="title"/>
+    <EditText
+        android:id="@+id/et_date_created"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="date_created"/>
+    <EditText
+        android:id="@+id/et_finish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Finish"/>
+
+    <EditText
+        android:id="@+id/et_mark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mark"/>
+
+    <EditText
+        android:id="@+id/et_quiz_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="quiz_id"/>
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"/>
+</LinearLayout>
