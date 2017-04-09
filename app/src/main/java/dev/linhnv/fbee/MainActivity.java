@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //demo git hub
+
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         if(toolbar != null) {
             setSupportActionBar(toolbar);
@@ -145,4 +147,3 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         dialog.show();
     }
 }
-//demo thi github
